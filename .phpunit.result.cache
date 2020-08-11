@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":250:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:4:{s:36:"BonsaiTest::comprobar_riego_mes_tipo";d:0.01;s:43:"BonsaiTest::comprobar_mes_para_transplantar";d:0;s:41:"BonsaiTest::comprobar_cuando_transplantar";d:0;s:35:"BonsaiTest::comprobar_si_pulverizar";d:0;}}}
